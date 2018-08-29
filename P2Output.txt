@@ -1,0 +1,12 @@
+ STRING    STATUS   DECIMAL VALUE   
+___________________________________
+10010111   valid       233
+11101011   valid       215
+18111011   Invalid       
+﻿Input:   Invalid       
+10010101   valid       169
+10100010   valid       69
+11101011   valid       215
+10101011   valid       213
+00011000   valid       24
+01100110   valid       102
